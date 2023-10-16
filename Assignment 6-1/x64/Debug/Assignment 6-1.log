@@ -1,0 +1,12 @@
+﻿  Display.cpp
+S:\CSC215\Assignment 6-1\Assignment 6-1\Display.cpp(19,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Game.cpp
+S:\CSC215\Assignment 6-1\Assignment 6-1\Input.h(18,2): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+  Input.cpp
+S:\CSC215\Assignment 6-1\Assignment 6-1\Input.h(18,2): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+  Player.cpp
+  SceneManager.cpp
+  main.cpp
+S:\CSC215\Assignment 6-1\Assignment 6-1\Input.h(18,2): warning C4091: 'static ': ignored on left of 'Input' when no variable is declared
+  Generating Code...
+  Assignment 6-1.vcxproj -> S:\CSC215\Assignment 6-1\x64\Debug\Assignment 6-1.exe
